@@ -1,0 +1,11 @@
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetectionTest.dll
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetectionTest.pdb
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetection.exe
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\bin\Debug\NSubstitute.dll
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetection.pdb
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\bin\Debug\NSubstitute.xml
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.dll
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.pdb
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.Properties.Resources.resources
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csproj.GenerateResource.Cache
