@@ -9,3 +9,14 @@
 \\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.pdb
 \\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.Properties.Resources.resources
 \\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csproj.GenerateResource.Cache
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetectionTest.dll
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetectionTest.pdb
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetection.exe
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\bin\Debug\NSubstitute.dll
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\bin\Debug\ImageEdgeDetection.pdb
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\bin\Debug\NSubstitute.xml
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csprojResolveAssemblyReference.cache
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.Properties.Resources.resources
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.csproj.GenerateResource.Cache
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.dll
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetectionTest\obj\Debug\ImageEdgeDetectionTest.pdb

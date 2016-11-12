@@ -12,3 +12,11 @@ C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\I
 \\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
 \\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
 \\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csprojResolveAssemblyReference.cache
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+E:\625-1 organisation du developpement logiciel\ImageEdgeDetectionNsubstitute\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
