@@ -1,0 +1,9 @@
+\\psf\Home\Documents\HES\Semestre 7\Test driven development\VisualStudio\Image Edge Detection\C#\UnitTestProject\bin\Debug\UnitTestProject.dll
+\\psf\Home\Documents\HES\Semestre 7\Test driven development\VisualStudio\Image Edge Detection\C#\UnitTestProject\bin\Debug\UnitTestProject.pdb
+\\psf\Home\Documents\HES\Semestre 7\Test driven development\VisualStudio\Image Edge Detection\C#\UnitTestProject\bin\Debug\ImageEdgeDetection.exe
+\\psf\Home\Documents\HES\Semestre 7\Test driven development\VisualStudio\Image Edge Detection\C#\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\psf\Home\Documents\HES\Semestre 7\Test driven development\VisualStudio\Image Edge Detection\C#\UnitTestProject\bin\Debug\ImageEdgeDetection.pdb
+\\psf\Home\Documents\HES\Semestre 7\Test driven development\VisualStudio\Image Edge Detection\C#\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+\\psf\Home\Documents\HES\Semestre 7\Test driven development\VisualStudio\Image Edge Detection\C#\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\HES\Semestre 7\Test driven development\VisualStudio\Image Edge Detection\C#\UnitTestProject\obj\Debug\UnitTestProject.dll
+\\psf\Home\Documents\HES\Semestre 7\Test driven development\VisualStudio\Image Edge Detection\C#\UnitTestProject\obj\Debug\UnitTestProject.pdb
