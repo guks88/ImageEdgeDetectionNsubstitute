@@ -1,0 +1,14 @@
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+C:\Work\Projects\HowToSamples_Repository\ImageEdgeDetection\ImageEdgeDetection\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.exe
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.pdb
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.exe
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\bin\Debug\ImageEdgeDetection.pdb
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.MainForm.resources
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.Properties.Resources.resources
+\\psf\Home\Downloads\Image Edge Detection\C#\ImageEdgeDetection\obj\x86\Debug\ImageEdgeDetection.csproj.GenerateResource.Cache
